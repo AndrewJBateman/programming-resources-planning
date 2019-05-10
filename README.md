@@ -19,38 +19,29 @@ A list of programming tasks. [Link to Github Repositories:](https://github.com/A
 
 | Item | Detail | Done ❌ or ✅|
 |-------|:--------:|--------|
-| Course | TeamTreehouse - MEAN Stack 12.5 hours, 13 sections | ❌ |
 | Angular | Personal website complete, decide on portfolio | ✅ |
-| General | Repos: add readme template and complete for all. | ❌ |  
-| Angular | Nasa API | ❌ |
-| Angular | Github API | ❌ |
-| Project | TensorFlow - start project | ❌ |
+| General | Repos: add readme template and complete for all. | ✅ |  
 
 ## April
 
 | Item | Detail | Done ❌ or ✅|
 |-------|:--------:|--------|
-| Add | Add | ❌ |
-| Add | Add | ❌ |
-| Add | Add | ❌ |
-| Add | Add | ❌ |
-| Add | Add | ❌ |
+| General | update Vue projects | ✅ |
 
 ## May
 
 | Item | Detail | Done ❌ or ✅|
 |-------|:--------:|--------|
-| Add | Add | ❌ |
-| Add | Add | ❌ |
-| Add | Add | ❌ |
-| Add | Add | ❌ |
-| Add | Add | ❌ |
+| General | All repos up to date | ❌ |
+| Angular | Nasa API | ❌ |
+| Ionic | Electrical API - start | ❌ |
+| TensorFlow  | - start project | ❌ |
 
 ## June
 
 | Item | Detail | Done ❌ or ✅|
 |-------|:--------:|--------|
-| Add | Add | ❌ |
+| Angular | Github API | ❌ |
 | Add | Add | ❌ |
 | Add | Add | ❌ |
 | Add | Add | ❌ |

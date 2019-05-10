@@ -2,6 +2,8 @@
 
 project description
 
+**Note: to open web links in a new window use: _ctrl+click on link_**
+
 ## Table of contents
 
 * [General info](#general-info)
@@ -44,10 +46,10 @@ List of features ready and TODOs for future development
 * Awesome feature 2
 * Awesome feature 3
 
-To-do list:
+## To-do list
 
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+1. Wow improvement to be done 1
+2. Wow improvement to be done 2
 
 ## Status
 
