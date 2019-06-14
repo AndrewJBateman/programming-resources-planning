@@ -1,6 +1,6 @@
 # Common Errors and Solutions
 
-* **Error a: `error in the angular compiler requires typescript >= 3.1 1 and 3.2 0 but 3.0 3 was found instead`**
+## **Error a: `error in the angular compiler requires typescript >= 3.1 1 and 3.2 0 but 3.0 3 was found instead`**
 
 * Solution: In CLI type: `npm i typescript@3.1.6 --save-dev --save-exact`
 
@@ -8,7 +8,7 @@
 
 * Solution: In CLI type: `npm i typescript@3.4.1 --save-dev --save-exact`
 
-**Error: C:\Users\Andrew\code\code-uptodate\angular-elements-study\src\polyfills.ts is missing from the TypeScript compilation. Please make sure it is in your tsconfig via the 'files' or 'include' property.**
+## **Error: C:\Users\Andrew\code\code-uptodate\angular-elements-study\src\polyfills.ts is missing from the TypeScript compilation. Please make sure it is in your tsconfig via the 'files' or 'include' property.**
 
 * Solution: Add this to `tsconfig.json` after "lib" ["es2018","dom"]:
 
@@ -16,13 +16,13 @@
     "./../src/main.ts"
   ]`
 
-* **Error: `src/app/app.module.ts(7,15): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try`npm i @types/node`and then add`node`to the types field in your tsconfig.`**
+## **Error: `src/app/app.module.ts(7,15): error TS2591: Cannot find name 'process'. Do you need to install type definitions for node? Try`npm i @types/node`and then add`node`to the types field in your tsconfig.`**
 
 * Solution: In CLI type: `npm i typescript@3.1.6 --save-dev --save-exact`
 
 * Solution: If "types" does not exist in the `tslint.json` file then add this: `"types": ["node"],`
 
-* **Error: `Module not found: Error: Can't resolve 'core-js/es7/reflect'`**
+## **Error: `Module not found: Error: Can't resolve 'core-js/es7/reflect'`**
 
 * Solution: Add this to `tsconfig.json` after "lib" ["es2018","dom"]:
 
@@ -33,11 +33,11 @@
   }
 ```
 
-* downgrade version of npm dependency `core-js` from v3.0.1 to v2.5.7 by typing:
+* Solution: downgrade version of npm dependency `core-js` from v3.0.1 to v2.5.7 by typing:
 
 `npm i -S core-js@2.5.7`
 
-* **Error: tar - arbitary file overwrite**
+## **Error: tar - arbitary file overwrite**
 
 * Solution: change `package-lock.json` tar version from 2.2.1 to 4.4.8:
 
@@ -55,12 +55,31 @@
       }
 ```
 
-* **Error: tslint tabs**
+## **Error: tslint tabs**
 
-* Solution: If "ident" does not exist in the `tslint.json` file then add this:
+* Angular 8 Solution: If "ident" does not exist in the `tslint.json` file then add this to 'rules:
 
 ```json
 "indent": {
       "options": ["tabs", 2]
     },
+```
+
+* Ionic Solution: (this one worked in Ionic 5) If "ident" does not exist in the `tslint.json` file then add this to 'rules:
+
+```json
+"indent": [
+  true,
+  "tabs",
+  2
+],
+```
+
+## **Error: Angular 8: @ViewChild(MatPaginator) error TS2554: Expected 2 arguments, but got 1.**
+
+* Solution: Add the 'static' flag to both ViewChild decorators: - see examples below
+
+```typescript
+@ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
+@ViewChild(MatSort, {static: true}) sort: MatSort;
 ```
