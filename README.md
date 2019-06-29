@@ -10,6 +10,8 @@ Resources to help with coding tasks.
 
 * planning: a plan of priority tasks per month and a record of completed.
 
+* pdfs folder with cheatsheets on mySQL..
+
 ## Contact
 
 Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
