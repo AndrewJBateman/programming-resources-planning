@@ -83,3 +83,14 @@
 @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
 @ViewChild(MatSort, {static: true}) sort: MatSort;
 ```
+
+## **Error: tslint: variable name must be in lower camelcase pascalcase or upper_case (variable-name)tslint(1)**
+
+* Solution: add this to tslint.json:
+
+```json
+"variable-name": [true,
+    "check-format",
+    "allow-leading-underscore"
+]
+```
