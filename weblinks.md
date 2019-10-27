@@ -8,6 +8,14 @@
 
 * [Javascript BEST PRACTICES PART 1](https://www.thinkful.com/learn/javascript-best-practices-1/)
 
+## Javascript Arrays
+
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+* [w3schools Array Reference](https://www.w3schools.com/jsref/jsref_obj_array.asp)
+
+* [Useful article by Thomlom: 'What you should know about JavaScript arrays'](https://thomlom.dev/what-you-should-know-about-js-arrays/)
+
 ## Frameworks
 
 ### Angular
