@@ -10,7 +10,7 @@ Resources to help with coding tasks.
 
 * web-links:  links to useful programming resources
 
-* pdfs folder with cheatsheets on mySQL.
+* pdfs folder with info. on mySQL and GCP Architect Certification.
 
 ## Contact
 

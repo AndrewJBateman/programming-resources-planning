@@ -31,6 +31,8 @@ Information on how to get Google Cloud Architect Certification.
 * [Global Knowledge: A Complete Guide: How to Become a Google Certified Professional Cloud Architect](https://www.globalknowledge.com/us-en/content/cert-prep-guides/a-complete-guide-how-to-become-a-google-certified-professional-cloud-architect/)
 * [Github Repo](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification)
 * [Github Repo](https://github.com/jorwalk/cloud-architect-gcp)
+* [Google Cloud Platform certification exam resources](https://github.com/lewisrodgers/gcp-exam-resources)
+* [Google Cloud Platform Certification resources](https://github.com/sathishvj/awesome-gcp-certifications)
 
 ## Useful Videos
 
@@ -65,7 +67,7 @@ Information on how to get Google Cloud Architect Certification.
 * Study Guide Review Questions: 
 Ch1 1:B 2:D 3:B 4:B 5:D 6:C 7:C 8:B 9:B 10:D 11:B 12:D 13:A 14:A 15:D 16:B 17:C 18:B 19:C 20:B
 Ch2 1:C 2:C 3:D 4:A 5:A 6:B 7:D 8:D 9:D 10:B 11:B 12:A 13:B 14:B 15:C 16:B 17:B 18:A 19:C 20:D
-Ch3 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+Ch3 1:A 2:C 3:B 4:B 5:E 6:B 7:D 8:D 9:A 10:B 11:C 12:D 13:D 14:A 15:C 16:B 17:B 18:B 19:D 20:A 
 Ch4 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
 Ch5 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
 Ch6 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 

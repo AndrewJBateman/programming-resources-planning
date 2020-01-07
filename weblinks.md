@@ -3,6 +3,7 @@
 ## General Programming
 
 * [The 2019 Web Developer Roadmap - A Visual Guide to Becoming a Front End, Back End, or DevOps Developer](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
+* [Quincy Larson, FreeCodeCamp, Web Development in 2020: What Coding Tools You Should Learn](https://www.freecodecamp.org/news/web-development-2020/)
 
 ## Javascript
 
