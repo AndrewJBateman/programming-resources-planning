@@ -23,6 +23,7 @@ Information on how to get Google Cloud Architect Certification.
 
 * [Article by Srinivas of Whizlabs: How did I Pass Google Cloud Certified Associate Cloud Engineer Exam?](https://www.whizlabs.com/blog/google-cloud-certified-associate-cloud-engineer-exam-review/)
 * [Medium Article: Professional Cloud Architect Certification](https://medium.com/google-cloud/professional-cloud-architect-certification-6a6dfa5c6ff5)
+* [sathish vj, Medium: Notes from my Google Cloud Professional Cloud Architect Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30)
 * [Google Cloud – Professional Cloud Architect Certification learning path](http://jayendrapatil.com/google-cloud-professional-cloud-architect-certification-learning-path/)
 
 ## Useful Documents/Github Repos
@@ -42,8 +43,9 @@ Information on how to get Google Cloud Architect Certification.
 * [Exam responses](https://www.youtube.com/watch?v=Pk2MR-zdZYk)
 * [Associate-Cloud-Engineer - Practice Exam Test Questions PDF Answers](https://www.youtube.com/watch?v=JdQGO9GVkZM)
 
-## Web Links
+## Useful Web Links
 
+* [Associate Cloud Engineer Certification exam guide](https://cloud.google.com/certification/guides/cloud-engineer/)
 * [Google Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
 * [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture)
 * [Cloud Advocate: Associate Cloud Engineer - Study Notes](https://docs.google.com/document/d/1EoeFLmdQbqLQLL82m4OuzuKps54mqhoR1z9_s-OA2Gs/edit#heading=h.b56f3lfsd71b)
@@ -68,7 +70,7 @@ Information on how to get Google Cloud Architect Certification.
 Ch1 1:B 2:D 3:B 4:B 5:D 6:C 7:C 8:B 9:B 10:D 11:B 12:D 13:A 14:A 15:D 16:B 17:C 18:B 19:C 20:B
 Ch2 1:C 2:C 3:D 4:A 5:A 6:B 7:D 8:D 9:D 10:B 11:B 12:A 13:B 14:B 15:C 16:B 17:B 18:A 19:C 20:D
 Ch3 1:A 2:C 3:B 4:B 5:E 6:B 7:D 8:D 9:A 10:B 11:C 12:D 13:D 14:A 15:C 16:B 17:B 18:B 19:D 20:A 
-Ch4 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+Ch4 1:B 2:A 3:A 4:C 5:B 6:D 7:B 8:D 9:B 10:D 11:A 12:B 13:D 14:B 15:D 16:C 17:C 18:B 19:B 20:A
 Ch5 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
 Ch6 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
 Ch7 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
@@ -86,7 +88,7 @@ Ch18 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20:
 
 ## Inspiration
 
-Google
+Google Cloud Products.
 
 ## Contact
 
