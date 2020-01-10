@@ -4,6 +4,7 @@
 
 * [The 2019 Web Developer Roadmap - A Visual Guide to Becoming a Front End, Back End, or DevOps Developer](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
 * [Quincy Larson, FreeCodeCamp, Web Development in 2020: What Coding Tools You Should Learn](https://www.freecodecamp.org/news/web-development-2020/)
+* [Cheat sheets on nearly everything](http://overapi.com/)
 
 ## Javascript
 
@@ -21,8 +22,9 @@
 
 ### Angular
 
-* TBD
+* [Cheat Sheet](https://angular.io/guide/cheatsheet)
 
 ### Ionic
 
 * [Ionic Framework Interview Questions](https://www.zeolearn.com/interview-questions/ionic-framework)
+* [Ionicons Cheatsheet, 318 icons](https://ionicons.com/cheatsheet.html)
