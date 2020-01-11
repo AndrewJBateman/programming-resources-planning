@@ -14,9 +14,9 @@ Resources to help with coding tasks.
 
 * how-to: instructions on how to do more complex tasks.
 
-* a readme template that will soon be used for all my 200 or so repos.
+* a readme template that will soon be in use for all >200 repos.
 
-* web-links:  links to useful programming resources
+* web-links: links to useful programming resources.
 
 
 ## Contact

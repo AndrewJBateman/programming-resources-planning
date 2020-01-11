@@ -17,7 +17,7 @@ Information on how to get Google Cloud Architect Certification.
 
 ## General info
 
-* A Professional Cloud Architect enables organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud Platform, this individual can design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives.
+* A Professional Cloud Architect enables organizations to leverage Google Cloud technologies. With a thorough understanding of cloud architecture and Google Cloud Platform, the individual can design, develop, and manage robust, secure, scalable, highly available & dynamic solutions to drive business objectives.
 
 ## Useful Advice
 
@@ -29,6 +29,7 @@ Information on how to get Google Cloud Architect Certification.
 ## Useful Documents/Github Repos
 
 * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view) 18 chapters.
+* [Kubernetes Website](https://kubernetes.io/docs/home/)
 * [Global Knowledge: A Complete Guide: How to Become a Google Certified Professional Cloud Architect](https://www.globalknowledge.com/us-en/content/cert-prep-guides/a-complete-guide-how-to-become-a-google-certified-professional-cloud-architect/)
 * [Github Repo](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification)
 * [Github Repo](https://github.com/jorwalk/cloud-architect-gcp)
@@ -73,7 +74,7 @@ Ch3 1:A 2:C 3:B 4:B 5:E 6:B 7:D 8:D 9:A 10:B 11:C 12:D 13:D 14:A 15:C 16:B 17:B 
 Ch4 1:B 2:A 3:A 4:C 5:B 6:D 7:B 8:D 9:B 10:D 11:A 12:B 13:D 14:B 15:D 16:C 17:C 18:B 19:B 20:A
 Ch5 1:C 2:A 3:B 4:B 5:C 6:A 7:B 8:C 9:B 10:A 11:B 12:B 13:C 14:B 15:B 16:A 17:A 18:C 19:B 20:A 
 Ch6 1:A 2:B 3:B 4:C 5:A 6:A 7:B 8:D 9:C 10:B 11:C 12:B 13:C 14:A 15:B 16:B 17:B 18:B 19:C 20:B 
-Ch7 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+Ch7 1:C 2:A 3:C 4:B 5:C 6:B 7:A 8:A 9:C 10:B 11:C 12:C 13:D 14:B 15:C 16:B 17:A 18:B 19:A 20:A 
 Ch8 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
 Ch9 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
 Ch10 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
