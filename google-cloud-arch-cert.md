@@ -31,10 +31,10 @@ Information on how to get Google Cloud Architect Certification.
 * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view) 18 chapters.
 * [Kubernetes Website](https://kubernetes.io/docs/home/)
 * [Global Knowledge: A Complete Guide: How to Become a Google Certified Professional Cloud Architect](https://www.globalknowledge.com/us-en/content/cert-prep-guides/a-complete-guide-how-to-become-a-google-certified-professional-cloud-architect/)
-* [Github Repo](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification)
-* [Github Repo](https://github.com/jorwalk/cloud-architect-gcp)
-* [Github Repo](https://github.com/cloudcoban/gcp-professional-architect-certification)
-* [Github Repo](https://github.com/sekalska/gcp-architect-cheatsheet)
+* [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification)
+* [Github Repo: jorwalk/cloud-architect-gcp](https://github.com/jorwalk/cloud-architect-gcp)
+* [Github Repo: cloudcoban/gcp-professional-architect-certification](https://github.com/cloudcoban/gcp-professional-architect-certification)
+* [Github Repo: sekalska/gcp-architect-cheatsheet](https://github.com/sekalska/gcp-architect-cheatsheet)
 * [Google Cloud Platform certification exam resources](https://github.com/lewisrodgers/gcp-exam-resources)
 * [Google Cloud Platform Certification resources](https://github.com/sathishvj/awesome-gcp-certifications)
 
@@ -69,30 +69,23 @@ Information on how to get Google Cloud Architect Certification.
 ## Status
 
 * In progress.
-* Study Guide Review Questions: 
-Ch1 1:B 2:D 3:B 4:B 5:D 6:C 7:C 8:B 9:B 10:D 11:B 12:D 13:A 14:A 15:D 16:B 17:C 18:B 19:C 20:B
-Ch2 1:C 2:C 3:D 4:A 5:A 6:B 7:D 8:D 9:D 10:B 11:B 12:A 13:B 14:B 15:C 16:B 17:B 18:A 19:C 20:D
-Ch3 1:A 2:C 3:B 4:B 5:E 6:B 7:D 8:D 9:A 10:B 11:C 12:D 13:D 14:A 15:C 16:B 17:B 18:B 19:D 20:A 
-Ch4 1:B 2:A 3:A 4:C 5:B 6:D 7:B 8:D 9:B 10:D 11:A 12:B 13:D 14:B 15:D 16:C 17:C 18:B 19:B 20:A
-Ch5 1:C 2:A 3:B 4:B 5:C 6:A 7:B 8:C 9:B 10:A 11:B 12:B 13:C 14:B 15:B 16:A 17:A 18:C 19:B 20:A 
-Ch6 1:A 2:B 3:B 4:C 5:A 6:A 7:B 8:D 9:C 10:B 11:C 12:B 13:C 14:A 15:B 16:B 17:B 18:B 19:C 20:B 
-Ch7 1:C 2:A 3:C 4:B 5:C 6:B 7:A 8:A 9:C 10:B 11:C 12:C 13:D 14:B 15:C 16:B 17:A 18:B 19:A 20:A 
-Ch8 1:B 2:D 3:B 4:B 5:C 6:D 7:B 8:C 9:B 10:C 11:D 12:A 13:A 14:A 15:C 16:A 17:B 18:B 19:B 20:B 
-Ch9 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch10 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch11 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch12 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch13 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch14 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch15 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch16 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch17 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
-Ch18 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20:  
 
-## Inspiration
-
-Google Cloud Products.
-
-## Contact
-
-Created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+## Study Guide Review Questions: 
+* Ch1 1:B 2:D 3:B 4:B 5:D 6:C 7:C 8:B 9:B 10:D 11:B 12:D 13:A 14:A 15:D 16:B 17:C 18:B 19:C 20:B
+* Ch2 1:C 2:C 3:D 4:A 5:A 6:B 7:D 8:D 9:D 10:B 11:B 12:A 13:B 14:B 15:C 16:B 17:B 18:A 19:C 20:D
+* Ch3 1:A 2:C 3:B 4:B 5:E 6:B 7:D 8:D 9:A 10:B 11:C 12:D 13:D 14:A 15:C 16:B 17:B 18:B 19:D 20:A 
+* Ch4 1:B 2:A 3:A 4:C 5:B 6:D 7:B 8:D 9:B 10:D 11:A 12:B 13:D 14:B 15:D 16:C 17:C 18:B 19:B 20:A
+* Ch5 1:C 2:A 3:B 4:B 5:C 6:A 7:B 8:C 9:B 10:A 11:B 12:B 13:C 14:B 15:B 16:A 17:A 18:C 19:B 20:A 
+* Ch6 1:A 2:B 3:B 4:C 5:A 6:A 7:B 8:D 9:C 10:B 11:C 12:B 13:C 14:A 15:B 16:B 17:B 18:B 19:C 20:B 
+* Ch7 1:C 2:A 3:C 4:B 5:C 6:B 7:A 8:A 9:C 10:B 11:C 12:C 13:D 14:B 15:C 16:B 17:A 18:B 19:A 20:A 
+* Ch8 1:B 2:D 3:B 4:B 5:C 6:D 7:B 8:C 9:B 10:C 11:D 12:A 13:A 14:A 15:C 16:A 17:B 18:B 19:B 20:B 
+* Ch9 1:B 2:A 3:B 4:B 5:A 6:A 7:C 8:B 9:A 10:C 11:C 12:A 13:A 14:A 15:A 16:B 17:C 18:D 19:D 20:B 
+* Ch10 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch11 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch12 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch13 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch14 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch15 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch16 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch17 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch18 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20:

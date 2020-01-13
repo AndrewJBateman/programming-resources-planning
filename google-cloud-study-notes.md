@@ -42,7 +42,7 @@ Changing or conversion of storage classes. (Ex: Multi-regional to Nearline, Mult
 Automatic deletion of objects and Objects transfer between the different storage classes using lifecycle policies
 
 ## Kubernetes Engine
-The deployment process of docker file
+The deployment process of a docker file
 How to create a docker file and understanding of container registry
 Autoscaling in Kubernetes
 Working of cluster nodes and services
