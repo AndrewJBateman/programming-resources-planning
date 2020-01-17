@@ -51,12 +51,15 @@ Working of cluster nodes and services
 Relational databases: SQL vs Spanner
 When to use BigQuery and Cloud Bigtable
 
+## Loading Data Into Storage
+
+
 ## Bigdata Tools
 Difference between Dataproc vs Dataperp
 Questions based on Pub/Sub use cases and integration with other services
 Data Analytics tools use cases
 
-## Image-based Questions: Got 2 Questions
+## Image-based Questions: 2 Questions
 Provided the sample company cloud architecture diagram with blanks and asked to fill the blanks with suitable GCP services as per requirement demand
 
 ## Stackdriver
