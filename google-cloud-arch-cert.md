@@ -1,6 +1,6 @@
 # Google Cloud Architect Certification
 
-Information on how to get Google Cloud Architect Certification.
+Information on Google Cloud Architect Certification.
 
 **Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -88,6 +88,6 @@ Information on how to get Google Cloud Architect Certification.
 * Ch13 1:C 2:B 3:C 4:D 5:A 6:C 7:A 8:C 9:B 10:D 11:A 12:B 13:A 14:C 15:C 16:A 17:C 18:B 19:B 20:A 21:A 
 * Ch14 1:D 2:B 3:B 4:A 5:A 6:C 7:A 8:A 9:B 10:D 11:A 12:B 13:B 14:A 15:D 16:C 17:C 18:A 19:B 20:D 
 * Ch15 1:B 2:A 3:A 4:B 5:B 6:C 7:D 8:A 9:B 10:B 11:B 12:A 13:C 14:A 15:D 16:B 17:C 18:B 19:A 20:B 
-* Ch16 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch16 1:D 2:B 3:A 4:B 5:B 6:C 7:D 8:B 9:D 10:B 11:D 12:D 13:A 14:D 15:A 16:C 17:A 18:D 19:B 20:D 
 * Ch17 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
 * Ch18 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20:
