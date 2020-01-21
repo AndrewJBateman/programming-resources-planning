@@ -55,6 +55,7 @@ Information on Google Cloud Architect Certification.
 * [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture)
 * [Cloud Advocate: Associate Cloud Engineer - Study Notes](https://docs.google.com/document/d/1EoeFLmdQbqLQLL82m4OuzuKps54mqhoR1z9_s-OA2Gs/edit#heading=h.b56f3lfsd71b)
 * [A Cloud Guru: Google Certified Associate Cloud Engineer 2020](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer) 29dollars/month.
+* [Google Cloud list of concepts](https://cloud.google.com/iam/docs/concepts)
 
 
 ## To-do list
@@ -72,7 +73,8 @@ Information on Google Cloud Architect Certification.
 
 * In progress.
 
-## Study Guide Review Questions: 
+## Study Guide Review Questions:
+
 * Ch1 1:B 2:D 3:B 4:B 5:D 6:C 7:C 8:B 9:B 10:D 11:B 12:D 13:A 14:A 15:D 16:B 17:C 18:B 19:C 20:B
 * Ch2 1:C 2:C 3:D 4:A 5:A 6:B 7:D 8:D 9:D 10:B 11:B 12:A 13:B 14:B 15:C 16:B 17:B 18:A 19:C 20:D
 * Ch3 1:A 2:C 3:B 4:B 5:E 6:B 7:D 8:D 9:A 10:B 11:C 12:D 13:D 14:A 15:C 16:B 17:B 18:B 19:D 20:A 
@@ -89,5 +91,5 @@ Information on Google Cloud Architect Certification.
 * Ch14 1:D 2:B 3:B 4:A 5:A 6:C 7:A 8:A 9:B 10:D 11:A 12:B 13:B 14:A 15:D 16:C 17:C 18:A 19:B 20:D 
 * Ch15 1:B 2:A 3:A 4:B 5:B 6:C 7:D 8:A 9:B 10:B 11:B 12:A 13:C 14:A 15:D 16:B 17:C 18:B 19:A 20:B 
 * Ch16 1:D 2:B 3:A 4:B 5:B 6:C 7:D 8:B 9:D 10:B 11:D 12:D 13:A 14:D 15:A 16:C 17:A 18:D 19:B 20:D 
-* Ch17 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20: 
+* Ch17 1:B 2:A 3:B 4:B 5:C 6:B 7:D 8:B 9:D 10:D 11:B 12:B 13:C 14:C 15:B 16:B 17:A 18:C 19:B 20:B 
 * Ch18 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20:
