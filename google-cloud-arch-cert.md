@@ -92,4 +92,4 @@ Information on Google Cloud Architect Certification.
 * Ch15 1:B 2:A 3:A 4:B 5:B 6:C 7:D 8:A 9:B 10:B 11:B 12:A 13:C 14:A 15:D 16:B 17:C 18:B 19:A 20:B 
 * Ch16 1:D 2:B 3:A 4:B 5:B 6:C 7:D 8:B 9:D 10:B 11:D 12:D 13:A 14:D 15:A 16:C 17:A 18:D 19:B 20:D 
 * Ch17 1:B 2:A 3:B 4:B 5:C 6:B 7:D 8:B 9:D 10:D 11:B 12:B 13:C 14:C 15:B 16:B 17:A 18:C 19:B 20:B 
-* Ch18 1: 2: 3: 4: 5: 6: 7: 8: 9: 10: 11: 12: 13: 14: 15: 16: 17: 18: 19: 20:
+* Ch18 1:B 2:B 3:D 4:B 5:D 6:D 7:A 8:C 9:B 10:D 11:D 12:B 13:B 14:C 15:D 16:B 17:B 18:C 19:B 20:B

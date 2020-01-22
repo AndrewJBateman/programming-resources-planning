@@ -29,7 +29,7 @@ Required roles to create and manage the billing accounts
 Understanding the relation between Billing accounts & Projects & Organizations
 
 ## Ch 4 Compute Engine
-The understanding of market place uses cases (Ex: If the user wants to deploy functional software packages without having to manually configure the software or Virtual machine instances)
+The understanding of market place uses cases (Ex: If the user wants to deploy functional software packages without having to manually configure the software or Virtual Machine instances)
 Auto-scaling types (Selecting best scaling type based on the given scenario)
 When to use External IP address (Static external vs Ephemeral external IP)
 Importance of metadata and labels
@@ -63,6 +63,6 @@ Data Analytics tools use cases
 Provided the sample company cloud architecture diagram with blanks and asked to fill the blanks with suitable GCP services as per requirement demand
 
 ## Stackdriver
-Importance of Stackdriver in the Google cloud and how it works
-Creating and configuring the workspaces
-How to add projects form different GCP accounts to single Stackdriver account via GCP console
+Importance of [Stackdriver](https://cloud.google.com/monitoring/) in the Google cloud and how it works. Monitors GCP and AWS resources.
+Creating and configuring workspaces
+How to add projects from different GCP accounts to single Stackdriver account via GCP console
