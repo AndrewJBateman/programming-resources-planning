@@ -66,3 +66,7 @@ Provided the sample company cloud architecture diagram with blanks and asked to 
 Importance of [Stackdriver](https://cloud.google.com/monitoring/) in the Google cloud and how it works. Monitors GCP and AWS resources.
 Creating and configuring workspaces
 How to add projects from different GCP accounts to single Stackdriver account via GCP console
+
+## Abbreviations
+* CIDR: Classless inter-domain routing - a set of Internet protocol (IP) standards that is used to create unique identifiers for networks and individual devices.
+

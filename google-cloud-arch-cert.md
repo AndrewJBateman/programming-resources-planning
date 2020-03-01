@@ -32,13 +32,16 @@ Information on Google Cloud Architect Certification.
 * [Official Google Cloud Certified Associate Cloud Engineer Study Guide](https://drive.google.com/file/d/1TVc6hSNB9iZU3bUPnkLpttuvqUVDI_Qd/view) 18 chapters.
 * [Kubernetes Website](https://kubernetes.io/docs/home/)
 * [Global Knowledge: A Complete Guide: How to Become a Google Certified Professional Cloud Architect](https://www.globalknowledge.com/us-en/content/cert-prep-guides/a-complete-guide-how-to-become-a-google-certified-professional-cloud-architect/)
+* [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
+* [Google Cloud Platform certification exam resources](https://github.com/lewisrodgers/gcp-exam-resources)
+* [Google Cloud Platform Certification resources](https://github.com/sathishvj/awesome-gcp-certifications)
+* [Subnet Mask and CIDR: How many valid hosts can be used on a specific subnet (Classless Addressing)?](https://www.engeniusnetworks.eu/faq-question/subnet-mask-and-cidr-how-many-valid-hosts-can-be-used-on-a-specific-subnet-classless-addressing)
+
 * [Github Repo: Google Associate Cloud Engineer Certification](https://github.com/GCPBigData/Google-Associate-Cloud-Engineer-Certification)
 * [Github Repo: jorwalk/cloud-architect-gcp](https://github.com/jorwalk/cloud-architect-gcp)
 * [Github Repo: cloudcoban/gcp-professional-architect-certification](https://github.com/cloudcoban/gcp-professional-architect-certification)
 * [Github Repo: sekalska/gcp-architect-cheatsheet](https://github.com/sekalska/gcp-architect-cheatsheet)
-* [Google Cloud Platform certification exam resources](https://github.com/lewisrodgers/gcp-exam-resources)
-* [Google Cloud Platform Certification resources](https://github.com/sathishvj/awesome-gcp-certifications)
-* [Subnet Mask and CIDR: How many valid hosts can be used on a specific subnet (Classless Addressing)?](https://www.engeniusnetworks.eu/faq-question/subnet-mask-and-cidr-how-many-valid-hosts-can-be-used-on-a-specific-subnet-classless-addressing)
+* [Github repo: Patechoc GCP Memo](https://github.com/Patechoc/GCP_memo/tree/master/cloud_architect)
 
 ## Useful Videos
 
@@ -60,18 +63,24 @@ Information on Google Cloud Architect Certification.
 
 ## To-do list
 
-* Read through Study Guide 18 chapters & complete exercises.
-* Decide on tutorial - Corsera? 
-* Corsera course: Architecting with Google Compute Engine Specialization. 7 weeks at 12/hours per week. 44euro per month. 6 courses. 
+* Read through Study Guide 18 chapters & complete exercises - done
+
+* Corsera course: Architecting with Google Compute Engine Specialization. 7 weeks at 12/hours per week. 44euro per month. 5 courses - see below
+* Google Cloud Platform Fundamentals: Core Infrastructure - done
+* Essential Cloud Infrastructure: Foundation - done
+* Essential Cloud Infrastructure: Core Services - done
+* Elastic Cloud Infrastructure: Scaling and Automation - done
+* Reliable Cloud Infrastructure: Design and Process - to do
+
 * [Google Cloud: Exam prep course](https://google.qwiklabs.com/courses/879&utm_source=cloud-dot-google&utm_medium=website)
-* Case Study - dress4win
+* Case Study - [dress4win](https://www.coursera.org/lecture/preparing-cloud-professional-cloud-architect-exam/dress4win-case-study-analysis-JfG2yf)
 * Case Study - Mountkirk Games
 * Case Study - TerramEarth
 * [Practise Exam](https://cloud.google.com/certification/practice-exam/cloud-engineer)
 
 ## Status
 
-* In progress.
+* In progress. See To-do list for progress updates.
 
 ## Study Guide Review Questions:
 

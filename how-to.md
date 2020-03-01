@@ -7,3 +7,7 @@
 2. `ng build --prod --base-href https://[username].github.io/[repo]/`
 
 3. `ngh --dir=dist/[project-name]`
+
+# Publish website to GCP Coonsole
+
+* [How to Deploy Angular 8 app on Google Cloud Platform ( GCP ) ?](https://medium.com/@karthiksagar/how-to-deploy-angular-8-app-on-google-cloud-platform-gcp-cdd79e5cc5cf)
