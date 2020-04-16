@@ -1,24 +1,19 @@
-# Programming Resources Planning
+# :zap: Programming Resources Planning
 
 Resources to help with coding tasks.
 
-**Includes:**
+**:page_facing_up: Includes:**
 
-* pdfs folder with info. on mySQL and GCP Architect Certification.
+* pdfs folder with info. on mySQL etc.
 
 * error-solutions: solutions to common errors - code to copy-paste to save time.
 
-* google cloud architect certification notes
-
-* google cloud study notes.
-
 * how-to: instructions on how to do more complex tasks.
 
-* a readme template that will soon be in use for all >200 repos.
+* a readme template that will soon be in use for all repos.
 
 * web-links: links to useful programming resources.
 
+## :envelope: Contact
 
-## Contact
-
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)

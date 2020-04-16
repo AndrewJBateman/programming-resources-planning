@@ -9,10 +9,13 @@
 * [Dev Roadmap 2019 - link to 2020](https://github.com/kamranahmedse/developer-roadmap)
 * [Github repo: Useful gen prgramming info](https://github.com/luixaviles/every-programmer-should-know)
 * [Git workshop repo](https://github.com/jlord/patchwork)
+* [list of markdown emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ### Full Stack Info
 
 * [Full-stack developer interview questions and answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers)
+* [Backend Developer Roadmap](https://roadmap.sh/backend)
+* [Frontend Developer Roadmap](https://roadmap.sh/frontend)
 
 ## Javascript/Java
 
