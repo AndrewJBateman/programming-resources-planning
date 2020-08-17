@@ -1,5 +1,9 @@
 # Common Errors and Solutions
 
+## **Error: npm ERR! Unexpected end of JSON input while parsing near '...de":"0.6.2","express"'**
+
+* Solution: See`https://stackoverflow.com/questions/56387743/npm-err-unexpected-end-of-json-input-while-parsing-near-registry-npmjs-org` type `npm cache clean --force` then `npm install`
+
 ## **Error a: `error in the angular compiler requires typescript >= 3.1 1 and 3.2 0 but 3.0 3 was found instead`**
 
 * Solution: In CLI type: `npm i typescript@3.1.6 --save-dev --save-exact`
@@ -94,3 +98,5 @@
     "allow-leading-underscore"
 ]
 ```
+
+## **clear cache when .env was left in repo by mistake** `git rm --cached .env` then `rm '.env` then `git add .` as usual

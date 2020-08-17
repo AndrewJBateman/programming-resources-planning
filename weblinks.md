@@ -38,6 +38,10 @@
 * [A list of awesome AngularJs services, directives, utilities and resources.](https://github.com/gianarb/awesome-angularjs)
 * [How to update to Angular 9](https://developer.okta.com/blog/2020/02/12/angular-ivy)
 
+### Angular Projects of Interest
+
+* [Angular + Firebase Firestore CRUD](https://github.com/dottedsquirrel/AngularFirebaseCRUD)
+
 ### Ionic
 
 * [Ionic Framework Interview Questions](https://www.zeolearn.com/interview-questions/ionic-framework)
@@ -50,3 +54,7 @@
 ### Engineering-related
 
 * [EPLAN P8 script to generate a PDF file per location defined in project](https://github.com/mrlucmorin/PDFPerLocation)
+
+### Node.js
+
+* [Google Cloud Getting started with Node.js](https://cloud-dot-devsite-v2-prod.appspot.com/nodejs/getting-started)
